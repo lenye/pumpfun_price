@@ -35,7 +35,7 @@ Use "pumpfun_price [command] --help" for more information about a command.
 
 ### Installing `pumpfun_price`
 
-Download the [latest version](https://github.com/lenye/solana/releases/tag/pumpfun_price_v25.7.3)
+Download the [latest version](https://github.com/lenye/pumpfun_price/releases/tag/pumpfun_price_v25.7.3)
 
 #### Windows OS
 
