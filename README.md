@@ -37,7 +37,7 @@ Use "pumpfun_price [command] --help" for more information about a command.
 
 Download the [latest version](https://github.com/lenye/pumpfun_price/releases/tag/v25.7.3)
 
-#### Windows OS
+#### Windows
 
 1. Unzip the downloaded file `pumpfun_price_v25.7.3_windows_x86_64.zip`.
 2. Run `pumpfun_price.exe api` to start the API service.
@@ -387,7 +387,13 @@ Solana Address: 3hYU2JYDKgfCkHFXBUGj48pn7vCXr4XYBs7fjMqN793L
 
 https://discord.gg/5mwX6zNnRv
 
+## Issues and Contributing
+
+If you find an issue with this software, please report an [issue](https://github.com/lenye/pumpfun_price/issues).
+If you'd like, we welcome any contributions.
+
 ## Disclaimer
 
-This project is for learning and research purposes only. Cryptocurrencies and trading involve risk, and you assume all
-risks associated with using this software. We are not responsible for any losses incurred while using this software.
+This software is for learning and research purposes only.
+Cryptocurrencies and trading involve risk, and you assume all risks associated with using this software.
+We are not responsible for any losses incurred while using this software.
