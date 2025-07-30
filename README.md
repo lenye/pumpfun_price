@@ -387,10 +387,9 @@ Solana Address: 3hYU2JYDKgfCkHFXBUGj48pn7vCXr4XYBs7fjMqN793L
 
 https://discord.gg/5mwX6zNnRv
 
-## Issues and Contributing
+## Issues
 
 If you find an issue with this software, please report an [issue](https://github.com/lenye/pumpfun_price/issues).
-If you'd like, we welcome any contributions.
 
 ## Disclaimer
 
